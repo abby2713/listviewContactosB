@@ -12,7 +12,7 @@
         android:gravity="center_horizontal"
         android:text="I"
         android:textSize="30dp"
-        android:textColor="@color/black"
+        android:textColor="@color/red"
         android:layout_margin="5dp"/>
 
     <LinearLayout
